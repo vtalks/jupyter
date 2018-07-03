@@ -1,6 +1,6 @@
 VERSION=`cat VERSION`
 
-start:
+start:	## Start Jupyter Notebook
 	jupyter notebook
 
 include Makefile.help.mk
