@@ -3,3 +3,4 @@ pandas
 matplotlib
 seaborn
 pandas_profiling
+ranking_sorting
